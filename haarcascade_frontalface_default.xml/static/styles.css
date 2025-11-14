@@ -1,1 +1,5 @@
-
+body { font-family: Inter, Arial, sans-serif; }
+#wrapper { min-height: 100vh; }
+#sidebar-wrapper { width: 220px; }
+#page-content-wrapper { padding: 20px; }
+video { background: #000; border-radius: 6px; }
