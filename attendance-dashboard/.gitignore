@@ -1,1 +1,6 @@
-
+__pycache__/
+*.pyc
+*.pkl
+Attendance/*.csv
+.vscode/
+.vs/
